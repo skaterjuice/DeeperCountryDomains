@@ -1,4 +1,5 @@
 Domain Suffix,Country
+AFRICA
 co.za,South Africa
 net.za,South Africa
 co.ke,Kenya
@@ -20,6 +21,7 @@ co.na,Namibia
 com.gh,Ghana
 com.eg,Egypt
 co.ma,Morocco
+AMERICAS
 com.mx,Mexico
 net.mx,Mexico
 com.br,Brazil
@@ -41,6 +43,7 @@ com.sv,El Salvador
 com.hn,Honduras
 com.jm,Jamaica
 co.tt,Trinidad and Tobago
+ASIA
 co.jp,Japan
 co.kr,South Korea
 co.in,India
@@ -67,6 +70,7 @@ com.vn,Vietnam
 net.vn,Vietnam
 com.kh,Cambodia
 com.mm,Myanmar
+MIDDLE EAST
 co.ir,Iran
 co.om,Oman
 com.om,Oman
@@ -78,6 +82,7 @@ com.lb,Lebanon
 com.jo,Jordan
 com.tr,Turkey
 net.tr,Turkey
+EUROPE
 com.ru,Russia
 com.kz,Kazakhstan
 com.ua,Ukraine
@@ -97,6 +102,7 @@ com.mt,Malta
 com.ie,Ireland
 co.hu,Hungary
 co.cz,Czech Republic
+OCEANIA
 com.au,Australia
 net.au,Australia
 com.nz,New Zealand
